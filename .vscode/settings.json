@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Velocity Strike.sln"
+    "dotnet.defaultSolution": "Velocity-Strike.sln"
 }
